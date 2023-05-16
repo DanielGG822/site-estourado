@@ -3,4 +3,12 @@
     color: white;
     font-family: Arial;
     text-align: center;
+} /*eu fiz o básico de css então tem somente 1 código css e é bem pequeno
+agora eu vou mostrar as imagens*/
+
+button {
+    background-color: rgb(17, 17, 17);
+    color: white;
+    border: solid 3px;
+    border-radius: 25px;
 }
